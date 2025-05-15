@@ -6,5 +6,6 @@ public class DataType {
         System.out.println(ch);
         boolean var = false;
         System.out.println(var);
+
     }
 }
