@@ -7,5 +7,6 @@ public class whileLoop {
             System.out.println("Hello world" + counter);
             counter ++;
         }
+        System.out.println("Successfully printed 100 times");
     }
 }
