@@ -10,7 +10,7 @@ public class Reverse {
             first ++;
             last --;
         }
-    }
+    }g
 
     public static void main(String[] args) {
         int nums[] = { 10, 2, 6, 3, 1, 5 };
